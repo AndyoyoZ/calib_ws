@@ -1,0 +1,9 @@
+pcdFilePath=/home/andyoyo/calib_ws/src/findchessboard/data/pcd/
+pcdFileNumber=0000
+pcdFileType=.pcd
+pngFilePath=/home/andyoyo/calib_ws/src/findchessboard/data/img/
+pngFileType=.png
+camD=123
+distCoeffD={ }
+
+
