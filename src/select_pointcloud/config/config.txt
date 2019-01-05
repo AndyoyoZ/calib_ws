@@ -1,0 +1,3 @@
+pcdFilePath=/home/andyoyo/select_pointcloud/data/
+pcdFileNumber=0027
+pcdFileType=.pcd
